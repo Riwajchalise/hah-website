@@ -22,6 +22,7 @@ tags: [security, authentication, burpsuite]
 2.  Two-Factor Authentication
 3.  Open ID
 
+
 ## Bypassing Authentication
 
 Bypassing authentication is one of the most useful techniques as it does not require us to know the user's credentials in order to access the user's profile. This technique however does not work with HTML-Basic authentication type because, as we remember from the first part of this article, HTML-Basic requires us to send the username and password with every request.
